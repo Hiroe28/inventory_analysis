@@ -26,6 +26,7 @@ streamlit
 pandas
 matplotlib
 japanize-matplotlib
+openpyxl
 ```
 
 ## インストール方法
